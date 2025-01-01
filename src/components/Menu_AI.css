@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.left-panel {
+    flex: 2;
+    margin-right: 20px;
+}
+
+.right-panel {
+    flex: 1;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #555;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+h3 {
+    margin: 0;
+    color: #333;
+}
+
+p {
+    margin: 5px 0 0;
+    color: #666;
+}
+
+.task-box {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.task-box:hover {
+    background-color: #f1f1f1;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.task-box h3 {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.task-box p {
+    margin: 5px 0 0;
+    color: #666;
+}
+
+.scrollable {
+    max-height: 400px;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+.task-box button {
+    width: 100%;
+    background: none;
+    border: none;
+    text-align: left;
+    padding: 0;
+    cursor: pointer;
+}
+
+.task-box button:hover {
+    background: none;
+}

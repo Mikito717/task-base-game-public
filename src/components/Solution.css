@@ -1,0 +1,130 @@
+.solution-container {
+    height: 50%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    margin-right: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+.form-group input,
+.form-group textarea {
+    height: 100%;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.solution-page {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    height:100vh;
+}
+
+.task-container {
+    height: 80%;
+    width: 30%;
+    padding: 20px;
+    border-right: 1px solid #ccc;
+}
+
+.llm-console {
+    height:50%;
+    position: relative;
+}
+
+.llm-response {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.llm-history {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.llm-history-container {
+    max-height: 200px; /* 表示する履歴の最大高さを設定 */
+    overflow-y: auto; /* 縦方向のスクロールを有効にする */
+}
+
+.llm-entry {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.llm-entry:last-child {
+    border-bottom: none;
+}
+
+.llm-entry p {
+    margin: 5px 0;
+}
+
+.llm-entry strong {
+    color: #333;
+}
+
+.right-column {
+    height: 80%;
+    width: 70%;
+    padding: 20px;
+}
+
+.back-button {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.back-button:hover {
+    background-color: #0056b3;
+}
+
+.llm-markdown-content {
+    font-size: 12px; /* ここで希望する文字の大きさに調整してください */
+}
