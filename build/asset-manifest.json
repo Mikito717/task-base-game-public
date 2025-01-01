@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/task-base-game-public/static/css/main.b62ab733.css",
+    "main.js": "/task-base-game-public/static/js/main.5f6cb01b.js",
+    "static/js/614.6d6424f4.chunk.js": "/task-base-game-public/static/js/614.6d6424f4.chunk.js",
+    "static/js/320.9ce0e2b6.chunk.js": "/task-base-game-public/static/js/320.9ce0e2b6.chunk.js",
+    "static/js/351.67fa857a.chunk.js": "/task-base-game-public/static/js/351.67fa857a.chunk.js",
+    "static/js/421.157dde3d.chunk.js": "/task-base-game-public/static/js/421.157dde3d.chunk.js",
+    "static/js/542.c51664d0.chunk.js": "/task-base-game-public/static/js/542.c51664d0.chunk.js",
+    "static/js/443.265be038.chunk.js": "/task-base-game-public/static/js/443.265be038.chunk.js",
+    "static/js/488.7213179a.chunk.js": "/task-base-game-public/static/js/488.7213179a.chunk.js",
+    "index.html": "/task-base-game-public/index.html",
+    "main.b62ab733.css.map": "/task-base-game-public/static/css/main.b62ab733.css.map",
+    "main.5f6cb01b.js.map": "/task-base-game-public/static/js/main.5f6cb01b.js.map",
+    "614.6d6424f4.chunk.js.map": "/task-base-game-public/static/js/614.6d6424f4.chunk.js.map",
+    "320.9ce0e2b6.chunk.js.map": "/task-base-game-public/static/js/320.9ce0e2b6.chunk.js.map",
+    "351.67fa857a.chunk.js.map": "/task-base-game-public/static/js/351.67fa857a.chunk.js.map",
+    "542.c51664d0.chunk.js.map": "/task-base-game-public/static/js/542.c51664d0.chunk.js.map",
+    "443.265be038.chunk.js.map": "/task-base-game-public/static/js/443.265be038.chunk.js.map",
+    "488.7213179a.chunk.js.map": "/task-base-game-public/static/js/488.7213179a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62ab733.css",
+    "static/js/main.5f6cb01b.js"
+  ]
+}
