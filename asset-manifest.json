@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/task-base-game-public/static/css/main.b62ab733.css",
-    "main.js": "/task-base-game-public/static/js/main.d23ffee0.js",
+    "main.js": "/task-base-game-public/static/js/main.6027b73c.js",
     "static/js/614.6d6424f4.chunk.js": "/task-base-game-public/static/js/614.6d6424f4.chunk.js",
     "static/js/320.9ce0e2b6.chunk.js": "/task-base-game-public/static/js/320.9ce0e2b6.chunk.js",
     "static/js/351.67fa857a.chunk.js": "/task-base-game-public/static/js/351.67fa857a.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/488.7213179a.chunk.js": "/task-base-game-public/static/js/488.7213179a.chunk.js",
     "index.html": "/task-base-game-public/index.html",
     "main.b62ab733.css.map": "/task-base-game-public/static/css/main.b62ab733.css.map",
-    "main.d23ffee0.js.map": "/task-base-game-public/static/js/main.d23ffee0.js.map",
+    "main.6027b73c.js.map": "/task-base-game-public/static/js/main.6027b73c.js.map",
     "614.6d6424f4.chunk.js.map": "/task-base-game-public/static/js/614.6d6424f4.chunk.js.map",
     "320.9ce0e2b6.chunk.js.map": "/task-base-game-public/static/js/320.9ce0e2b6.chunk.js.map",
     "351.67fa857a.chunk.js.map": "/task-base-game-public/static/js/351.67fa857a.chunk.js.map",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.b62ab733.css",
-    "static/js/main.d23ffee0.js"
+    "static/js/main.6027b73c.js"
   ]
 }
